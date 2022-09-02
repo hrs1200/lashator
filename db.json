@@ -1,0 +1,11 @@
+{
+  "lashator": [
+    {"id":101, "title": "MONACO", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/55380c63c3fda453f4219d555e4a7a59.jpg", "size":"75X75", "color":"Gray"},
+    {"id":102, "title": "SAVANA", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/c97e800a646510558e9c4d8025189f29.jpg", "size":"60X120", "color":"Gray"},
+    {"id":103, "title": "ROCK", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/e4224bd88069cda5045e30cf608e0848.jpg", "size":"40X100", "color":"Wihte"},
+    {"id":104, "title": "AILAND", "img":"https://firoozehtile.com/thumb/photos/400/400/uploads/pattern/gallery/d9fadbf18e65c47ef5cd8bcd772707a7.jpg", "size":"40X100", "color":"Light"}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
